@@ -348,6 +348,7 @@ func findExecPath() string {
 		`C:\Program Files (x86)\Google\Chrome\Application\chrome.exe`,
 		`C:\Program Files\Google\Chrome\Application\chrome.exe`,
 		`C:\PortApps\PortableApps\ChromiumPortable\chrome-win\chrome.exe`,
+		`C:\Users\Administrator\PortableApps\GoogleChromePortable\App\Chrome-bin\chrome.exe`,
 		filepath.Join(os.Getenv("USERPROFILE"), `AppData\Local\Google\Chrome\Application\chrome.exe`),
 
 		// Mac
