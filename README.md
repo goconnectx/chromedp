@@ -55,7 +55,7 @@ chromedp.Run(ctx, chromedp.ActionFunc(func(ctx context.Context) error {
 > I want to use chromedp on a headless environment
 
 The simplest way is to run the Go program that uses chromedp inside the
-[chromedp/headless-shell][6] image. That image contains `headless-shell`, a
+[quay.io/spivegin/gcxsurf][6] image. That image contains `headless-shell`, a
 smaller headless build of Chrome, which `chromedp` is able to find out of the
 box.
 
