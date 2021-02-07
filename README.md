@@ -73,7 +73,7 @@ box.
 [3]: https://chromedevtools.github.io/devtools-protocol/
 [4]: https://github.com/goconnectx/examples
 [5]: https://godoc.org/github.com/goconnectx/chromedp
-[6]: https://hub.docker.com/r/chromedp/headless-shell/
+[6]: https://quay.io/repository/spivegin/gcxsurf/
 [7]: https://www.youtube.com/watch?v=_7pWCg94sKw
 [8]: https://godoc.org/github.com/goconnectx/cdproto
 [9]: https://github.com/goconnectx/cdproto-gen
